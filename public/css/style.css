@@ -1,0 +1,17 @@
+.bd-example {
+    padding: 1rem;
+    position: center;
+    margin: 1rem -15px 0;
+    border: solid #f7f7f9;
+    border-width: .2rem 0 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
